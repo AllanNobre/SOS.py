@@ -1,0 +1,39 @@
+{
+    "Populacao": [
+        {
+            "label": "Total",
+            "escolaridade_media": 6.474662275161909,
+            "qtd_pessoas": 199085594.0,
+            "porcen_pessoas": 1,
+            "renda_media": 846.4345316818856
+        },
+        {
+            "label": "Mulheres Negras",
+            "escolaridade_media": 6.031404575308214,
+            "qtd_pessoas": 52932128.0,
+            "porcen_pessoas": 0.2658762341186776,
+            "renda_media": 460.9398024579703
+        },
+        {
+            "label": "Mulheres Brancas",
+            "escolaridade_media": 7.428491344246247,
+            "qtd_pessoas": 49273063.0,
+            "porcen_pessoas": 0.24749687815181645,
+            "renda_media": 826.2688492087451
+        },
+        {
+            "label": "Homens Negros",
+            "escolaridade_media": 5.522829129683632,
+            "qtd_pessoas": 52706937.0,
+            "porcen_pessoas": 0.2647451075741824,
+            "renda_media": 751.3359246430882
+        },
+        {
+            "label": "Homens Brancos",
+            "escolaridade_media": 7.077574057693368,
+            "qtd_pessoas": 44173466.0,
+            "porcen_pessoas": 0.22188178015532353,
+            "renda_media": 1444.328244245086
+        }
+    ]
+}
