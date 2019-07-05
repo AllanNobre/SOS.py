@@ -3,164 +3,164 @@
         {
             "label": "Rondônia",
             "escolaridade_media": 5.800860799253452,
-            "regiao": "Norte",
-            "renda_media": 717.2607276858463
+            "renda_media": 717.2607276858463,
+            "regiao": "Norte"
         },
         {
             "label": "Acre",
             "escolaridade_media": 5.596340973828595,
-            "regiao": "Norte",
-            "renda_media": 628.1636812020876
+            "renda_media": 628.1636812020876,
+            "regiao": "Norte"
         },
         {
             "label": "Amazonas",
             "escolaridade_media": 5.91452831700821,
-            "regiao": "Norte",
-            "renda_media": 555.176772434145
+            "renda_media": 555.176772434145,
+            "regiao": "Norte"
         },
         {
             "label": "Roraima",
             "escolaridade_media": 6.729399286471892,
-            "regiao": "Norte",
-            "renda_media": 713.4043283086384
+            "renda_media": 713.4043283086384,
+            "regiao": "Norte"
         },
         {
             "label": "Pará",
             "escolaridade_media": 5.372486979178287,
-            "regiao": "Norte",
-            "renda_media": 518.9775845905583
+            "renda_media": 518.9775845905583,
+            "regiao": "Norte"
         },
         {
             "label": "Amapá",
             "escolaridade_media": 6.224153303243966,
-            "regiao": "Norte",
-            "renda_media": 644.0911846474899
+            "renda_media": 644.0911846474899,
+            "regiao": "Norte"
         },
         {
             "label": "Tocantins",
             "escolaridade_media": 5.827311481375582,
-            "regiao": "Norte",
-            "renda_media": 677.0394528209218
+            "renda_media": 677.0394528209218,
+            "regiao": "Norte"
         },
         {
             "label": "Maranhão",
             "escolaridade_media": 4.875147288163028,
-            "regiao": "Nordeste",
-            "renda_media": 441.0630608509142
+            "renda_media": 441.0630608509142,
+            "regiao": "Nordeste"
         },
         {
             "label": "Piauí",
             "escolaridade_media": 4.994022644563046,
-            "regiao": "Nordeste",
-            "renda_media": 561.7967922880803
+            "renda_media": 561.7967922880803,
+            "regiao": "Nordeste"
         },
         {
             "label": "Ceará",
             "escolaridade_media": 5.578181122170468,
-            "regiao": "Nordeste",
-            "renda_media": 528.7265623494808
+            "renda_media": 528.7265623494808,
+            "regiao": "Nordeste"
         },
         {
             "label": "Rio Grande do Norte",
             "escolaridade_media": 5.935586481708065,
-            "regiao": "Nordeste",
-            "renda_media": 644.5401845198386
+            "renda_media": 644.5401845198386,
+            "regiao": "Nordeste"
         },
         {
             "label": "Paraíba",
             "escolaridade_media": 5.537426249453281,
-            "regiao": "Nordeste",
-            "renda_media": 579.5674593170503
+            "renda_media": 579.5674593170503,
+            "regiao": "Nordeste"
         },
         {
             "label": "Pernambuco",
             "escolaridade_media": 5.689353850939612,
-            "regiao": "Nordeste",
-            "renda_media": 551.8860679920224
+            "renda_media": 551.8860679920224,
+            "regiao": "Nordeste"
         },
         {
             "label": "Alagoas",
             "escolaridade_media": 4.951313300376971,
-            "regiao": "Nordeste",
-            "renda_media": 449.7424498375809
+            "renda_media": 449.7424498375809,
+            "regiao": "Nordeste"
         },
         {
             "label": "Sergipe",
             "escolaridade_media": 5.520480481033099,
-            "regiao": "Nordeste",
-            "renda_media": 612.1191541435968
+            "renda_media": 612.1191541435968,
+            "regiao": "Nordeste"
         },
         {
             "label": "Bahia",
             "escolaridade_media": 5.4878033143461,
-            "regiao": "Nordeste",
-            "renda_media": 554.7670739564229
+            "renda_media": 554.7670739564229,
+            "regiao": "Nordeste"
         },
         {
             "label": "Minas Gerais",
             "escolaridade_media": 6.40314995009125,
-            "regiao": "Sudeste",
-            "renda_media": 868.6023382009623
+            "renda_media": 868.6023382009623,
+            "regiao": "Sudeste"
         },
         {
             "label": "Espírito Santo",
             "escolaridade_media": 6.697237066916912,
-            "regiao": "Sudeste",
-            "renda_media": 897.0821980240951
+            "renda_media": 897.0821980240951,
+            "regiao": "Sudeste"
         },
         {
             "label": "Rio de Janeiro",
             "escolaridade_media": 7.303853265806892,
-            "regiao": "Sudeste",
-            "renda_media": 956.8297054367365
+            "renda_media": 956.8297054367365,
+            "regiao": "Sudeste"
         },
         {
             "label": "São Paulo",
             "escolaridade_media": 7.466600828919752,
-            "regiao": "Sudeste",
-            "renda_media": 1094.0670770958955
+            "renda_media": 1094.0670770958955,
+            "regiao": "Sudeste"
         },
         {
             "label": "Paraná",
             "escolaridade_media": 6.790077058744769,
-            "regiao": "Sul",
-            "renda_media": 1008.609141492208
+            "renda_media": 1008.609141492208,
+            "regiao": "Sul"
         },
         {
             "label": "Santa Catarina",
             "escolaridade_media": 7.070504533437793,
-            "regiao": "Sul",
-            "renda_media": 1057.838671119029
+            "renda_media": 1057.838671119029,
+            "regiao": "Sul"
         },
         {
             "label": "Rio Grande do Sul",
             "escolaridade_media": 6.779448285101678,
-            "regiao": "Sul",
-            "renda_media": 1024.8890053361035
+            "renda_media": 1024.8890053361035,
+            "regiao": "Sul"
         },
         {
             "label": "Mato Grosso do Sul",
             "escolaridade_media": 6.565057196789418,
-            "regiao": "Centro-Oeste",
-            "renda_media": 984.8414509006033
+            "renda_media": 984.8414509006033,
+            "regiao": "Centro-Oeste"
         },
         {
             "label": "Mato Grosso",
             "escolaridade_media": 6.3506407004613346,
-            "regiao": "Centro-Oeste",
-            "renda_media": 930.6390118651304
+            "renda_media": 930.6390118651304,
+            "regiao": "Centro-Oeste"
         },
         {
             "label": "Goiás",
             "escolaridade_media": 6.592408446182031,
-            "regiao": "Centro-Oeste",
-            "renda_media": 885.736212627722
+            "renda_media": 885.736212627722,
+            "regiao": "Centro-Oeste"
         },
         {
             "label": "Distrito Federal",
             "escolaridade_media": 7.911563403410907,
-            "regiao": "Centro-Oeste",
-            "renda_media": 1664.8511919945922
+            "renda_media": 1664.8511919945922,
+            "regiao": "Centro-Oeste"
         }
     ]
 }
