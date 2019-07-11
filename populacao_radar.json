@@ -1,36 +1,36 @@
 {
     "Populacao": [
         {
-            "label": "Mulheres Negras",
             "renda_media": 460.9398024579703,
-            "escolaridade_media": 6.031404575308214,
+            "label": "Mulheres Negras",
             "idade_media": 32.39207409156118,
-            "valor_medio_ocupacao": 987.1354500584328,
-            "qtd_ocupacoes": 42
+            "qtd_ocupacoes": 42,
+            "escolaridade_media": 6.031404575308214,
+            "valor_medio_ocupacao": 987.1354500584328
         },
         {
-            "label": "Mulheres Brancas",
             "renda_media": 826.2688492087451,
-            "escolaridade_media": 7.428491344246247,
+            "label": "Mulheres Brancas",
             "idade_media": 35.76164735283455,
-            "valor_medio_ocupacao": 2334.4295204296363,
-            "qtd_ocupacoes": 63
+            "qtd_ocupacoes": 63,
+            "escolaridade_media": 7.428491344246247,
+            "valor_medio_ocupacao": 2334.4295204296363
         },
         {
-            "label": "Homens Negros",
             "renda_media": 751.3359246430882,
-            "escolaridade_media": 5.522829129683632,
+            "label": "Homens Negros",
             "idade_media": 30.832033741592685,
-            "valor_medio_ocupacao": 1554.9205991763638,
-            "qtd_ocupacoes": 192
+            "qtd_ocupacoes": 192,
+            "escolaridade_media": 5.522829129683632,
+            "valor_medio_ocupacao": 1554.9205991763638
         },
         {
-            "label": "Homens Brancos",
             "renda_media": 1444.328244245086,
-            "escolaridade_media": 7.077574057693368,
+            "label": "Homens Brancos",
             "idade_media": 33.583232386609644,
-            "valor_medio_ocupacao": 2961.568804705708,
-            "qtd_ocupacoes": 159
+            "qtd_ocupacoes": 159,
+            "escolaridade_media": 7.077574057693368,
+            "valor_medio_ocupacao": 2961.568804705708
         }
     ]
 }
